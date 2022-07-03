@@ -3,7 +3,7 @@ header
 {
     background-color: black;
     height: 70px;
-    width: auto;
+    width: 100%;
     border-radius: 30px;
     color: white;
     display: flex;
